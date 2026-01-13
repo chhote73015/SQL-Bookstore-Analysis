@@ -19,7 +19,7 @@ The project uses three tables:
 
 ### Basic Queries
 - 1) Retrieve all Fiction books  
-- 2)Find books published after 1950  
+- 2) Find books published after 1950  
 - 3) List customers from Canada  
 - 4) Orders placed in November 2023  
 - 5) Total stock of books  
@@ -50,6 +50,6 @@ The project uses three tables:
 - Books.csv  
 - Customers.csv  
 - Orders.csv  
-- SQL- Bookstore Project Solution.sql 
+- Bookstore Project Solution.sql 
 
 This project demonstrates my ability to work with relational databases, joins, aggregations, and business-focused SQL analysis.
